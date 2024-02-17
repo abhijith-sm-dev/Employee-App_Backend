@@ -1,0 +1,24 @@
+{
+  "name": "employee-app_backend",
+  "version": "1.0.0",
+  "description": "this is a node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijith-sm-dev/Employee-App_Backend.git"
+  },
+  "keywords": [
+    "project",
+    "nodejs",
+    "react"
+  ],
+  "author": "Abhijith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijith-sm-dev/Employee-App_Backend/issues"
+  },
+  "homepage": "https://github.com/abhijith-sm-dev/Employee-App_Backend#readme"
+}
